@@ -3,7 +3,7 @@ import logo from "../images/lemon_logo.png"
 
 const Nav = () => {
     return(
-        <nav>
+        <nav id='nav'>
             <img src={logo} alt="Little Lemon Logo" ></img>
             <ul>
                 <li><a href='www.dumylink.com'>Home</a></li>

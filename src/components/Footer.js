@@ -6,10 +6,10 @@ const Footer = () => {
         <footer>
             <section>
             <div>
-                <img src={small_logo} />
+                <img src={small_logo} alt='little lemon logo'/>
             </div>
             <div>
-                <h3>Document Navigation</h3>
+                <h3>Navigation Links</h3>
             <ul>
                 <li>Home</li>
                 <li>About</li>
